@@ -10,7 +10,7 @@ ARCH= -gencode arch=compute_35,code=sm_35 \
 #      -gencode arch=compute_20,code=[sm_20,sm_21] \ This one is deprecated?
 
 # This is what I use, uncomment if you know your arch and want to specify
-#ARCH= -gencode arch=compute_37, code=sm_37
+ARCH= -gencode arch=compute_52,code=compute_52
 
 VPATH=./src/:./examples
 SLIB=libdarknet.so
