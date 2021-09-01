@@ -1,5 +1,0 @@
-classes = 2
-train = cfg/soybean-train-resized.txt
-valid = cfg/soybean-test-resized.txt
-names = data/soybean.names
-backup = backup/
