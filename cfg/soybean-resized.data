@@ -1,0 +1,5 @@
+classes = 2
+train = /home/user/Desktop/yolo_soybean/darknet/cfg/soybean-train-resized.txt
+valid = /home/user/Desktop/yolo_soybean/darknet/cfg/soybean-test-resized.txt
+names = /home/user/Desktop/yolo_soybean/darknet/data/soybean.names
+backup = /home/user/Desktop/yolo_soybean/darknet/backup/
