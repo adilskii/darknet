@@ -1,0 +1,10 @@
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0140.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0150.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0160.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0170.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0180.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0190.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0200.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0210.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0220.jpg
+/home/user/Desktop/yolo_soybean/darknet/data/soybean_resized_75/DJI_0230.jpg
