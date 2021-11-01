@@ -4,15 +4,9 @@ OPENCV=0
 OPENMP=0
 DEBUG=0
 
--arch=sm_52 \ 
--gencode=arch=compute_52,code=sm_52 \ 
--gencode=arch=compute_60,code=sm_60 \ 
--gencode=arch=compute_61,code=sm_61 \ 
--gencode=arch=compute_70,code=sm_70 \ 
--gencode=arch=compute_75,code=sm_75 \
--gencode=arch=compute_80,code=sm_80 \
--gencode=arch=compute_86,code=sm_86 \
--gencode=arch=compute_86,code=compute_86
+ARCH= -gencode arch=compute_35,code=sm_35 \
+      -gencode arch=compute_50,code=[sm_50,compute_50] \
+      -gencode arch=compute_52,code=[sm_52,compute_52]
 
 # This is what I use, uncomment if you know your arch and want to specify
 #ARCH= -gencode arch=compute_52,code=compute_52
